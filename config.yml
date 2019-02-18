@@ -1,0 +1,9 @@
+cc:
+  price: '1.5'
+  title: Кока-Кола
+pc:
+  price: '2.0'
+  title: Пепси Кола
+wa:
+  price: '0.85'
+  title: Вода
